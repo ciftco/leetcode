@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class EX_2_AddNumbers {
+public class S2_AddNumbers {
 
     //https://leetcode.com/problems/add-two-numbers/
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class E1_136_SingleNumber {
+public class S136_SingleNumber {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class E11_334_IncreasingTripletSubsequence {
+public class S334_IncreasingTripletSubsequence {
 
     //https://leetcode.com/problems/increasing-triplet-subsequence/submissions/
 

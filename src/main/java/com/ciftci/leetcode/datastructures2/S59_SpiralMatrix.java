@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class E9_59_SpiralMatrix {
+public class S59_SpiralMatrix {
 
     public static void main(String[] args) {
 

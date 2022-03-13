@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class EX_24_SwapNodesInPairs {
+public class S24_SwapNodesInPairs {
 
     public static void main(String[] args) {
 

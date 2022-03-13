@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Bak_AlternatifVarMı_E8_48_RotateImage {
+public class Bak_AlternatifVarMı_S48_RotateImage {
 
     //https://leetcode.com/problems/rotate-image/
 

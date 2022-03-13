@@ -2,7 +2,7 @@ package com.ciftci.leetcode.datastructures2;
 
 import java.util.*;
 
-public class Bak_E3_15_3_Sum {
+public class Bak_S15_3_Sum {
     public static void main(String[] args) {
 
     }

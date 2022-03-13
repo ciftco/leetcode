@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class EX_1249_MinimumRemovetoMakeValidParentheses {
+public class S1249_MinimumRemovetoMakeValidParentheses {
 
     public static void main(String[] args) {
     }

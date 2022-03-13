@@ -2,12 +2,12 @@ package com.ciftci.leetcode.datastructures2;
 
 import java.util.Arrays;
 
-public class E5_56_MergeIntervals {
+public class S56_MergeIntervals {
 
     public static void main(String[] args) {
         int[][] arr = new int[][] {{1,3},{8,10},{2, 6},{15,18}};
 
-        new E5_56_MergeIntervals().merge(arr);
+        new S56_MergeIntervals().merge(arr);
     }
 
     public int[][] merge(int[][] intervals) {

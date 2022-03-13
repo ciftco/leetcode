@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class E6_706_DesingHashmap {
+public class Bu_olmadi_bak_706_DesingHashmap {
 
 
     class MyHashMap {

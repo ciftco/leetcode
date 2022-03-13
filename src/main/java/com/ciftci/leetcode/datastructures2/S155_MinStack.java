@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class EX_155_MinStack {
+public class S155_MinStack {
 
     public static void main(String[] args) {
 

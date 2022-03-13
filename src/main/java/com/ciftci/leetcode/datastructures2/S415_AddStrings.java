@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class E11_415_AddStrings {
+public class S415_AddStrings {
 
     public static void main(String[] args) {
 

@@ -3,10 +3,10 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Bak_E7_119_PascalTriangleII {
+public class Bak_S119_PascalTriangleII {
 
     public static void main(String[] args) {
-        Bak_E7_119_PascalTriangleII item = new Bak_E7_119_PascalTriangleII();
+        Bak_S119_PascalTriangleII item = new Bak_S119_PascalTriangleII();
         List<Integer> rowList = item.getRow(10);
 
 

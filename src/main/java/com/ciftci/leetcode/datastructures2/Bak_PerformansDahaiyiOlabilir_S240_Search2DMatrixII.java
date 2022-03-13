@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class Bak_PerformansDahaiyiOlabilir_E10_240_Search2DMatrixII {
+public class Bak_PerformansDahaiyiOlabilir_S240_Search2DMatrixII {
 
     public static void main(String[] args) {
 

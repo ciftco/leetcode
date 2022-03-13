@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class EX_997_FindtheTownJudge {
+public class S997_FindtheTownJudge {
 
     //https://leetcode.com/problems/find-the-town-judge/
 

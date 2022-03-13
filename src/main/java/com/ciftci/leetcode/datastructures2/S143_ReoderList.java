@@ -2,11 +2,11 @@ package com.ciftci.leetcode.datastructures2;
 
 import java.util.Stack;
 
-public class EX_143_ReoderList {
+public class S143_ReoderList {
 
     public static void main(String[] args) {
 
-        EX_143_ReoderList thiss = new EX_143_ReoderList();
+        S143_ReoderList thiss = new S143_ReoderList();
         thiss.run();;
 
     }

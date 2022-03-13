@@ -3,7 +3,7 @@ package com.ciftci.leetcode.datastructures2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class E2_169_MajarityElement {
+public class S169_MajarityElement {
 
     public static void main(String[] args) {
 

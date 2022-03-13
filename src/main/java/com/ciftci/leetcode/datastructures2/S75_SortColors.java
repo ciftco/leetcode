@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class E4_75_SortColors {
+public class S75_SortColors {
 
     public static void main(String[] args) {
 

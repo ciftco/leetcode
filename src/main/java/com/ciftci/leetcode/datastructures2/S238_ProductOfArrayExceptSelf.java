@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class Ex_238_ProductOfArrayExceptSelf {
+public class S238_ProductOfArrayExceptSelf {
 
     public static void main(String[] args) {
 
