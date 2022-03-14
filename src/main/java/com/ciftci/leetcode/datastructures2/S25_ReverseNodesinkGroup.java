@@ -12,7 +12,6 @@ public class S25_ReverseNodesinkGroup {
 	}
 
 	public static ListNode reverseKGroup(ListNode head, int k) {
-
 		ListNode ponter = head;
 		ListNode before = null;
 		List <ListNode> reverseList = new ArrayList<>();
@@ -37,7 +36,6 @@ public class S25_ReverseNodesinkGroup {
 				ponter = before;
 				reverseList.clear();
 			}
-
 			ponter = ponter.next;
 		}
 		return head;

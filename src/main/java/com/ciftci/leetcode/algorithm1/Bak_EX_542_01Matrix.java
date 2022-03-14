@@ -90,7 +90,6 @@ public class Bak_EX_542_01Matrix {
 
             return distance;
         }
-
         return distance;
     }
 }
