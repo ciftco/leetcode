@@ -1,6 +1,6 @@
 package com.ciftci.leetcode.datastructures2;
 
-public class S43_MultiplyStrings {
+public class Yapılacak_S43_MultiplyStrings {
 
 	public static void main(String[] args) {
 
