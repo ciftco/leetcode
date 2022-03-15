@@ -28,6 +28,4 @@ public class Anla_S209_MinimumSizeSubarraySum {
 		return result;
 
 	}
-
-
 }
