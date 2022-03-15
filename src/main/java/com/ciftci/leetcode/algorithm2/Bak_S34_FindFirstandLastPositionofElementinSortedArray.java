@@ -1,12 +1,12 @@
 package com.ciftci.leetcode.algorithm2;
 
-public class S34_FindFirstandLastPositionofElementinSortedArray {
+public class Bak_S34_FindFirstandLastPositionofElementinSortedArray {
 
     public static void main(String[] args) {
 
         int[] arr = new int[]{5,7,7,8,8,10};
 
-        int[] ints = new S34_FindFirstandLastPositionofElementinSortedArray().searchRange(arr, 8);
+        int[] ints = new Bak_S34_FindFirstandLastPositionofElementinSortedArray().searchRange(arr, 8);
 
         System.out.println(ints);
 
