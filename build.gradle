@@ -17,3 +17,10 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+
+tasks.register('hello') {
+    doLast {
+        println 'Hello world!'
+    }
+}
