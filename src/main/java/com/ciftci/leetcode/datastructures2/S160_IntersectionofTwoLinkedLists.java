@@ -34,7 +34,6 @@ public class S160_IntersectionofTwoLinkedLists {
 				return pointer;
 			}
 			pointer = pointer.next;
-
 		}
 		return null;
 	}
