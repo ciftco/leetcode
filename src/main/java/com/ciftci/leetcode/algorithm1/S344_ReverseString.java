@@ -2,17 +2,17 @@ package com.ciftci.leetcode.algorithm1;
 
 public class S344_ReverseString {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-    }
+	}
 
-    public void reverseString(char[] s) {
-        int length = s.length;
+	public void reverseString(char[] s) {
+		int length = s.length;
 
-        for (int i = 0; i < length / 2 ; i++){
-            char temp = s[i];
-            s[i] = s[length - (i+1)];
-            s[length - (i+1)] = temp;
-        }
-    }
+		for (int i = 0; i < length / 2; i++) {
+			char temp = s[i];
+			s[i] = s[length - (i + 1)];
+			s[length - (i + 1)] = temp;
+		}
+	}
 }

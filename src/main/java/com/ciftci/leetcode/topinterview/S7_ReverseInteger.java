@@ -33,4 +33,5 @@ public class S7_ReverseInteger {
 
 		return integer;
 	}
+
 }

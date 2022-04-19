@@ -19,12 +19,10 @@ public class S136_Single_number {
 
         int result = 0;
         for (int i = 0; i < nums.length; i++){
+
             result ^= nums[i];
         }
         return result;
-
-
-
 
     }
 }

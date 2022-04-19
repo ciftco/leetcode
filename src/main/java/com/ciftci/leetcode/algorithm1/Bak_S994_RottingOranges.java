@@ -8,56 +8,49 @@ import java.util.Set;
 public class Bak_S994_RottingOranges {
 
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-    }
+	}
 
-    public int orangesRotting(int[][] grid) {
+	public int orangesRotting(int[][] grid) {
 
-        rot(grid);
-        return 0;
-    }
+		rot(grid);
+		return 0;
+	}
 
-    private int rot(int[][] grid) {
+	private int rot(int[][] grid) {
 
-        int height = grid.length;
-        int width = grid[0].length;
+		int height = grid.length;
+		int width = grid[0].length;
 
-        Set<int[][]> calculatedSet  = new HashSet<>();
-        Queue<int [][]> processQueue = new ArrayDeque<>();
+		Set<int[][]> calculatedSet = new HashSet<>();
+		Queue<int[][]> processQueue = new ArrayDeque<>();
 
-        while (true){
+		while (true) {
 
-            for (int i = 0; i >  height; i++){
+			for (int i = 0; i > height; i++) {
 
-            }
+			}
+		}
+	}
 
+	public void createQueue(Queue<int[][]> processQueue, Set<int[][]> calculatedSet, int[][] grid) {
 
-        }
+		int height = grid.length;
+		int width = grid[0].length;
 
-
-    }
-
-    public void createQueue(Queue<int [][]> processQueue, Set<int[][]> calculatedSet, int[][] grid ){
-
-        int height = grid.length;
-        int width = grid[0].length;
-
-        //for (int i = 0)
+		//for (int i = 0)
 
 
-    }
+	}
 
-    private class Pair{
-        private int i ;
-        private int j ;
+	private class Pair {
+		private int i;
+		private int j;
 
-        public Pair(int i , int j){
-            this.i = i;
-            this.j = j;
-        }
-    }
-
-
-
+		public Pair(int i, int j) {
+			this.i = i;
+			this.j = j;
+		}
+	}
 }
